@@ -1,7 +1,7 @@
 # purple-air-analysis
 A Quest project.
 
-The purpose of this project was to determine microclimates around the Bay Area during major pollution events by analysizing air pollution data from 8/1/20 to 9/30/20. However, the programs and data sets created as a result of this project have far greater utility. 
+The purpose of this project was to determine microclimates around the Bay Area during major pollution events by analyzing air pollution data from 8/1/20 to 9/30/20. However, the programs and data sets created as a result of this project have far greater utility. 
 
 # Things in this repo:
 1. csvingest.py
